@@ -1,0 +1,18 @@
+POPULATION         10000
+DECOUPE             100
+GENERATIONS          300
+MUTATION-0 RATE       .0
+MUTATION-1 RATE       .5
+CROSSOVER RATE        .02
+CROSSOVER RANGE        1
+SHARING RADIUS         7
+SHARING COEFF          .3
+FOCALE              400.
+PROXIMUS               40
+REMOTUS              7000
+ZOOM                   2
+DISPLAY RATE          .4
+COLOURS                1
+TOURNAMENT             1
+WINDOW SIZE (0 SMALL 1 BIG)  1
+
